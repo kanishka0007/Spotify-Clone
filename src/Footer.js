@@ -7,7 +7,7 @@ import ShuffleIcon from '@mui/icons-material/Shuffle';
 import RepeatIcon from '@mui/icons-material/Repeat';
 import { Grid, Slider } from '@mui/material';
 import PlaylistPlayIcon from '@mui/icons-material/PlaylistPlay';
-import VolumeDownIcon from "@mui/icons-material/VolumeDown";
+import VolumeDownIcon from '@mui/icons-material/VolumeDown';
 
 
 function Footer() {
